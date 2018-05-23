@@ -1,0 +1,52 @@
+.page{
+	width: 770px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans serif;
+	font-size: 16px;
+
+}
+
+.info{
+	float: left;
+}
+
+.Recherche{
+	float: center;
+	position: center;
+
+}
+
+.section{
+    margin-bottom: 90px;
+    text-align: justify-all;
+}
+
+.sec-gauche{
+	float:left;
+	font-weight: bold;
+	font-size:20px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.sec-droite{
+	margin-left: 180px;
+	margin-top: 38px;
+	margin-right: 100px;
+}
+
+.h2{
+	font-size: 20px;
+	color: #3388BB;
+	border-bottom: 5px, solid #3388DD;
+
+}
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#forma-gauche p{
+	margin-bottom: 35px;
+
+}
